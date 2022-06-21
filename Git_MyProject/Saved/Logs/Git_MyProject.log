@@ -908,3 +908,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.21-17.24.15:676][906]LogSlate: Took 0.000925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2022.06.21-17.30.50:143][352]LogSlate: Window 'Source Control Login' being destroyed
 [2022.06.21-17.37.44:349][273]LogSlate: Window 'Source Control Login' being destroyed
+[2022.06.21-17.42.42:241][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2022.06.21-17.42.45:074][897]LogSlate: Took 0.000501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.21-17.42.45:154][897]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2022.06.21-17.42.45:246][897]LogSavePackage: Moving '../../../../Projects_Git/Git_MyProject/Saved/FirstPersonExampleMapD9CD4D5D44DA4B2661E77B9FA4D152B2.tmp' to '../../../../Projects_Git/Git_MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.21-17.42.47:073][897]LogSavePackage: Moving '../../../../Projects_Git/Git_MyProject/Saved/FirstPersonExampleMap_BuiltDataBD7455064E9607E7E22CA3B7C1D9A828.tmp' to '../../../../Projects_Git/Git_MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.21-17.42.47:109][897]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-17.42.47:110][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.21-17.42.47:110][897]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-17.42.54:939][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)

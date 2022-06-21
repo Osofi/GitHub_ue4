@@ -907,3 +907,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.21-17.24.11:783][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2022.06.21-17.24.15:676][906]LogSlate: Took 0.000925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2022.06.21-17.30.50:143][352]LogSlate: Window 'Source Control Login' being destroyed
+[2022.06.21-17.37.44:349][273]LogSlate: Window 'Source Control Login' being destroyed
